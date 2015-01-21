@@ -1,0 +1,9 @@
+c:\users\dflores\documents\visual studio 2012\Projects\atm\atm\bin\Debug\atm.exe
+c:\users\dflores\documents\visual studio 2012\Projects\atm\atm\bin\Debug\atm.pdb
+c:\users\dflores\documents\visual studio 2012\Projects\atm\atm\obj\Debug\atm.csprojResolveAssemblyReference.cache
+c:\users\dflores\documents\visual studio 2012\Projects\atm\atm\obj\Debug\atm.frmMain.resources
+c:\users\dflores\documents\visual studio 2012\Projects\atm\atm\obj\Debug\atm.Properties.Resources.resources
+c:\users\dflores\documents\visual studio 2012\Projects\atm\atm\obj\Debug\atm.csproj.GenerateResource.Cache
+c:\users\dflores\documents\visual studio 2012\Projects\atm\atm\obj\Debug\atm.exe
+c:\users\dflores\documents\visual studio 2012\Projects\atm\atm\obj\Debug\atm.pdb
+c:\users\dflores\documents\visual studio 2012\Projects\atm\atm\obj\Debug\atm.opcion.resources
